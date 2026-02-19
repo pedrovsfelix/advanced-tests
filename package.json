@@ -1,0 +1,16 @@
+{
+  "name": "advanced-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pedrovsfelix <pedrovitorsf@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.1"
+  }
+}
