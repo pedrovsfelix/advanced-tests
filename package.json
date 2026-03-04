@@ -5,7 +5,7 @@
   "author": "pedrovsfelix <pedrovitorsf@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --recursive test/**/*.test.js"
   },
   "dependencies": {},
   "devDependencies": {
